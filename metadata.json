@@ -1,0 +1,6 @@
+{
+  "name": "CampusHub",
+  "description": "All-in-one Campus Living, Commerce, and Finance platform for Nigerian tertiary students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
